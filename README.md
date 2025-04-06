@@ -1,6 +1,6 @@
-## Keeper Notes App
+## Keeper App
 
-Access the live app here: **[Keeper Notes App](https://keeper-notes-app-react-210r.onrender.com)**
+Access the live app here: **[Keeper App](https://keeper-notes-app-react-210r.onrender.com)**
 
 Note: It may take up to **60 seconds to load** as the app is hosted on Render's free tier.
 
@@ -8,7 +8,7 @@ Note: It may take up to **60 seconds to load** as the app is hosted on Render's 
 
 ### Description
 
-**Keeper Notes App** is a React-based note-taking application inspired by Google Keep. It was built to practice handling form input, conditional rendering, component communication through props, and array manipulation using React hooks. The app allows users to create, view, and delete individual notes with a simple and intuitive interface.
+**Keeper App** is a React-based note-taking application inspired by Google Keep. It was built to practice handling form input, conditional rendering, component communication through props, and array manipulation using React hooks. The app allows users to create, view, and delete individual notes with a simple and intuitive interface.
 
 In this project, I worked with multiple components such as `CreateArea`, `Note`, `Header`, and `Footer` to break down functionality and UI. The note input expands when clicked, enhancing the user experience through conditional rendering. Notes are stored as an array of objects with unique IDs, and they can be dynamically added or removed. Material UI icons and components like `Fab`, `AddIcon`, `Zoom`, and `DeleteIcon` were used to enhance the visual design and interactivity.
 
