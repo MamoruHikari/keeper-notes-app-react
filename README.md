@@ -1,4 +1,4 @@
-## 🔐 Keeper Notes App
+## Keeper Notes App
 
 Access the live app here: **[Keeper Notes App](https://keeper-notes-app-react-210r.onrender.com)**
 
