@@ -52,7 +52,7 @@ To run this app locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/keeper-notes-app.git
+   git clone https://github.com/username/keeper-notes-app.git
    ```
 
 2. Navigate into the project directory:
